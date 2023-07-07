@@ -26,5 +26,5 @@ logTaskState(task1); // Clean Cat Litter has not been completed
 completeTask(task1);
 logTaskState(task1); // Clean Cat Litter has been completed
 
-// for now, let's just make sure we see our tasks
+// for now, let's just make sure we see our task
 console.log(tasks);
